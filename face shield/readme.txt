@@ -1,6 +1,11 @@
 Turned into an easier injection moldable frame for the following project
 
 
+____________________________________________________________
+
+This injection molded frame design should directly accept the prusa clear shield
+
+https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2
 
 
 ____________________________________________________________
