@@ -1,6 +1,8 @@
 Steve Wygant of SeeMeCNC
 March 22 2020
 
+March 25 2020 - changes to close off the top of the face shield design
+
 Hello, 
 
 This headband is designed to be injection molded. This is what I'm good at. I did not do this to be different. I
@@ -18,7 +20,7 @@ Steve
 
 MATERIALS USED
 
-QTY 2   #64 RUBBER BANDS
+QTY 2   #64 RUBBER BANDS or Elastic Band
 QTY 1   CUT TRANSPARENCY FACESHIELD
 QTY 1   INJ MOLDED OR 3D PRINTED HEADBAND
 
