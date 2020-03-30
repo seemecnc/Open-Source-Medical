@@ -3,6 +3,8 @@ March 22 2020
 
 March 25 2020 - changes to close off the top of the face shield design
 
+March 30 2020 - closed the top on the injection molded part and added a completely new DXF new shield pattern.
+
 Hello, 
 
 This headband is designed to be injection molded. This is what I'm good at. I did not do this to be different. I
@@ -13,6 +15,8 @@ The headband is compatible with Prusa rc2 (test fit the 3D model). And we are cu
 This design can printin 1 hour 15 minutes using a 0.7mm nozzle. I did this using Atomics PETG filament for the test. 
 
 The license is "Whatever you want to do with our design". 
+
+USE THIS INFORMATION AT YOUR OWN RISK, PROVIDED WITH OUT WARRANTY AS IS.
 
 Sincerely, 
 Steve
